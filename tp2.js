@@ -11,7 +11,7 @@ function ex9(x,y){
             console.log("bleu");
         }
         else{
-            console.log("jaune et rouge");
+            console.log("jaune");
         }
     }
 }
